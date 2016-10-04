@@ -130,7 +130,7 @@
 
                 <div class="input-field col s12">
                     <select id="selectPrueba">
-                        <option value="" selected>Choose your option</option>
+                        <option value="-1" selected>Choose your option</option>
                         <option value="1">Option 1</option>
                         <option value="2">Option 2</option>
                         <option value="3">Option 3</option>

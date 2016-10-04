@@ -147,7 +147,7 @@ and open the template in the editor.
             <!--             Menu desplegable movil con sub opciones-->
             <!-- Cambia practicamente todo dentro del nav-->
             
-                        <nav>
+<!--                        <nav>
                             <ul id="slide-out" class="side-nav">                    
                                 <li><a href="#!">opcion #1</a></li>
                                 <li><a href="#!">opcion #2</a></li>                    
@@ -183,7 +183,7 @@ and open the template in the editor.
                                 </ul>
                             </ul>
                             <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
-                        </nav>
+                        </nav>-->
 
 
             <!--************************************************************-->

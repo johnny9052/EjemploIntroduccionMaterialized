@@ -22,7 +22,7 @@ function cambiar() {
     combo.options[combo.length] = new Option("nombre 1", "1");
     combo.options[combo.length] = new Option("nombre 2", "2");
     combo.options[combo.length] = new Option("nombre 3", "3");
-    $("#selectPrueba").val(2);
+    $("#selectPrueba").val(-1);
     $('#selectPrueba').material_select('destroy');
     $('#selectPrueba').material_select();
 
